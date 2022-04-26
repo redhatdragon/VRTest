@@ -1,0 +1,2 @@
+C:\Users\Yuki\Documents\Unreal Projects\VRTest\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h
+C:\Users\Yuki\Documents\Unreal Projects\VRTest\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src\RdTextBuffer.h
